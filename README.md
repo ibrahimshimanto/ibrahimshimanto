@@ -1,6 +1,6 @@
 - 👋 Hi, this is @ibrahimshimanto
 - 👀 php/mysql
-- 📫 shironamhinshimanto@#gmail.com
+- 📫 shironamhinshimanto@gmail.com
 
 <!---
 ibrahimshimanto/ibrahimshimanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
